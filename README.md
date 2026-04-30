@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="./KakaoTalk_20260223_200006001.png" width="180" style="border-radius: 50%;" />
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Woojeans%20Portfolio&fontSize=40&fontColor=ffffff"/>
+
+<br/>
+<img src="./KakaoTalk_20260223_200006001.png" width="180" style="border-radius: 50%;" />
 
 </div>
 
