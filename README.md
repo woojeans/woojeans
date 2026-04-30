@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.png" width="180" style="border-radius: 50%;" />
+<img src="./KakaoTalk_20260223_200006001.png" width="180" style="border-radius: 50%;" />
 
 <br/>
 
